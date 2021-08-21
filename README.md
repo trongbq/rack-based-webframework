@@ -1,3 +1,3 @@
-# Rack-based webframework
+# Rack-based Web framework
 
 Based on rebuilding Rails book
